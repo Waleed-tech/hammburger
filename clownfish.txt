@@ -1,3 +1,7 @@
 My name is Timothy
 my favourite number is 555
+<<<<<<< HEAD
 I am learning github
+=======
+git pull
+>>>>>>> fefa38b0d02d9c785946499fd26ef64ca182d0f7
